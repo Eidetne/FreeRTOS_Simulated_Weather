@@ -1,0 +1,8 @@
+# FreeRTOS build / executables
+build/
+*.exe
+*.o
+*.obj
+
+# VS Code settings
+.vscode/
